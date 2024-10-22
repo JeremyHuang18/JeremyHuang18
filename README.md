@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeremyHuang18
 - 👀 I’m interested in Machine Learning and Air Traffic Management
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and JavaScript
+- 💞️ I’m looking to collaborate on Trajectory Optimization
 - 📫 How to reach me ...
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: ...
